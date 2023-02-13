@@ -12,4 +12,4 @@
 		Se "Levantar do sofá = verdadeiro, então faça "Escovar os dentes";
 		Após "escovar os dentes, faça "Fazer café";
 		Se "Escovar os dentes" e "Fazer café", faça "Sentar no sofá e estudar";
-		fim
+		fim.
