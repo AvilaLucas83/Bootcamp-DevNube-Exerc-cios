@@ -1,6 +1,6 @@
 # Bootcamp-DevNube-Exerc-cios
 
-    Acordar
+Acordar
 Levantar do sofá
 Ir até o banheiro
 se a porta do banheiro estiver fechada,
