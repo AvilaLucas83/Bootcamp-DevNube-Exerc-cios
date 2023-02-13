@@ -1,23 +1,15 @@
 # Bootcamp-DevNube-Exerc-cios
 
 		//variaveis
-		boolean despertador = true;
-		var acordado = despertador;
-		boolean dePeh = true;
-		var prontoParaTrabalhar = dePeh;
+		"Acordar"
+		"Levantar do sofá"
+		"Escovar os dentes"
+		"Fazer café"
+		"Sentar no sofá e estudar"
 
 		//funçoes
-		if (despertador = true) {
-			System.out.println("Acorda para a vida");
-		} else {
-			System.out.println("Voce precisa acordar");
-		}
-		if (acordado) {
-			System.out.println("Levante do sofa");
-		}
-		if (acordado && dePeh) {
-			System.out.println("Escove os dentes!");
-		}
-		if(prontoParaTrabalhar) {
-			System.out.println("Sente no sofá e ligue o CPU");
-		}	
+		Se "Acordar" = verdadeiro, então faça "Levantar do sofá";
+		Se "Levantar do sofá = verdadeiro, então faça "Escovar os dentes";
+		Após "escovar os dentes, faça "Fazer café";
+		Se "Escovar os dentes" e "Fazer café", faça "Sentar no sofá e estudar";
+		fim
