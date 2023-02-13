@@ -1,10 +1,12 @@
 # Bootcamp-DevNube-Exerc-cios
 
-boolean despertador = true;
+		//variaveis
+		boolean despertador = true;
 		var acordado = despertador;
 		boolean dePeh = true;
 		var prontoParaTrabalhar = dePeh;
 
+		//funçoes
 		if (despertador = true) {
 			System.out.println("Acorda para a vida");
 		} else {
