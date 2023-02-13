@@ -30,3 +30,4 @@ Ir até o sofá
 Sentar no sofá
 Ligar computador
 Estudar até as 18 horas
+fim.
