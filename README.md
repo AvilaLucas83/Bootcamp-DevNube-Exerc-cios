@@ -16,7 +16,8 @@ se dentifrício vazio,
 	pegar novo dentifrício
 fim se
 Colocar dentifrício na escova de dente
-Escovar os dentes por 2 minutos
+Enqaunto o tempo for de 0 a 120 segundos
+Escovar os dentes
 Apagar luz do banheiro
 Sair do banheiro
 Fechar a porta
@@ -24,7 +25,8 @@ Ir até a cozinha
 verificar a cafeteira
 se a cafeteira estiver vazia
 	fazer café novo
-	senão, colocar café na xicara
+	senão
+colocar café na xicara
 fim se
 Ir até o sofá
 Sentar no sofá
